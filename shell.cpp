@@ -1,3 +1,8 @@
+/* Ty Bergman
+05/11/2023
+CS 461
+ps5 - Final Implementation */
+
 #include <iostream>
 #include <string>
 #include <vector>
